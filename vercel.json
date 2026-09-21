@@ -1,0 +1,1 @@
+{"buildCommand":"npm run build","outputDirectory":"dist","framework":"vite","headers":[{"source":"/progress.json","headers":[{"key":"Cache-Control","value":"no-cache, no-store, must-revalidate"}]}]}
