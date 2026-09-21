@@ -10,7 +10,7 @@
 - [Source GLB](https://github.com/SafaElmali/dualsense-studio/blob/8142ab5c1ac658b35a945384299bea355fac3450/controller/dualsense.glb)
 - [Earlier source mirror recorded by dualsense-studio](https://github.com/Manav-Sonawane/Playstation-Revamp/blob/main/public/ps5_controller.glb)
 
-The prepared source separates disconnected components, bakes transforms, and assigns semantic control names while preserving the original geometry, normals, UVs, and materials. This project uses that prepared GLB unchanged and adjusts its rendered material response, lighting, and component positions in the interactive viewer. The source attribution is retained in `public/models/SOURCE-ATTRIBUTION.md` and within the GLB metadata.
+The prepared source separates disconnected components, bakes transforms, and assigns semantic control names while preserving the original geometry, normals, UVs, and materials. This project uses that prepared GLB and adjusts its rendered material response, lighting, and component positions in the interactive viewer. The public attribution is `public/model-attribution.txt`. The same credit is stored in the GLB metadata.
 
 SHA-256 of the acquired GLB: `e55e172f3a6704769818954970fda2d29038a31f85ba7358a36d0549df4f9d30`.
 

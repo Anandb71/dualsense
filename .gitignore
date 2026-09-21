@@ -1,7 +1,8 @@
 node_modules/
 dist/
 .vercel/
-artifacts/
-
-.vercel
 .gstack/
+.cursor/
+artifacts/
+.env
+.env.*
